@@ -1,0 +1,23 @@
+.Parent{
+    border: blueviolet 5px solid;
+    width: 300px;
+    height: 300px;
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 900;
+}
+.Child{
+    border: green 5px solid;
+    width: 100px;
+    height: 100px;
+    color: green;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: 900;
+    position: absolute;
+    top: 100px;
+    left: 180px;
+}

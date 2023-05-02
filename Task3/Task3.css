@@ -1,0 +1,44 @@
+.first{
+    border: solid black;
+    width:380px;
+    height: 180px;
+    padding: 40px;
+    z-index: 1;
+    margin-left: 150px;
+    margin-top: 150px;
+    position: relative;
+    background-color: white;
+}
+.second{
+    border: solid black;
+    width:180px;
+    height: 380px;
+    padding: 40px;
+    z-index: 2;
+    margin-left: 300px;
+    margin-top: -100px;
+    position: relative;
+    background-color: white;
+}
+.thirty{
+    border: solid black;
+    width:380px;
+    height: 180px;
+    padding: 40px;
+    z-index: 3;
+    margin-left: 100px;
+    margin-top: -200px;
+    position: relative;
+    background-color: white;
+}
+.fourth{
+    border: solid black;
+    width:180px;
+    height: 380px;
+    padding: 40px;
+    z-index: 4;
+    margin-left: 300px;
+    margin-top: -200px;
+    position: relative;
+    background-color: white;
+}

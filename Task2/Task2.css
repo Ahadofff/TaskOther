@@ -1,0 +1,25 @@
+body{
+    display: flex;
+}
+p{
+    font-size: 30px;
+}
+.fixed{
+    position: fixed;
+    width: 46vh;
+    height: 80px;
+    background-color: burlywood;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+.sticky{
+    position: sticky;
+    width: 46vh;
+    height: 80px;
+    background-color: coral;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    top: 10px;
+}

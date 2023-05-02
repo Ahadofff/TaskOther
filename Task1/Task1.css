@@ -1,0 +1,12 @@
+.text{
+    font-size: 40px;
+}
+.sticky{
+    width: 100vh;
+    height: 100px;
+    background-color: green;
+    position: sticky;
+    top: 40px;
+    padding-top: 40px;
+    color: white;
+}
